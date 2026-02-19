@@ -1,49 +1,82 @@
-## Hi there 👋
-# 👋 Hi, I'm Dharmendhiran Venkat!  
+👋 Hi, I'm Dharmendhiran Venkat!
 
-## About Me  
-- 🎓 Final-year BCA student at **St. Joseph College of Arts and Sciences, Cuddalore**.  
-- 🔍 Passionate about **AI, Machine Learning, Web Development, and Cryptography**.  
-- 💻 Currently researching **SSL Algorithm** and working on **Smart Campus Navigation**.  
-- 🌟 Aspiring to pursue postgraduate studies in Europe for a high-paying career in AI/ML.  
+🎓 BCA Graduate
+💻 Software Testing Enthusiast (Manual & Automation)
+🔍 Currently seeking Entry-Level Software Testing Roles
 
-## Skills  
-- **Programming Languages:** Python, C#, Java, HTML.  
-- **Technologies:** Artificial Intelligence, Machine Learning, Web Development.  
-- **Research:** SSL Algorithm and Cryptography.  
-- **Tools:** Git, VS Code, Jupyter Notebook.  
+---
 
-## Projects  
-1. **Smart Campus Navigation**  
-   - A system for guiding users efficiently around campus.  
-2. **SSL Algorithm Research**  
-   - An in-depth study on how SSL ensures secure communication over the internet.  
+🧑‍💻 About Me
 
-## Contact Me  
-- 📫 Email: dharmendhiranvenkat@example.com  
-- 📞 Phone: +91 8940127903  
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dharmendhiran-v-298015270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🌐 Portfolio: [My Portfolio](https://your-portfolio.com/)  
+I completed my BCA and prepared for IELTS for 6 months. Due to personal reasons, I chose to start my career in Software Testing.
 
-## Fun Fact  
-I enjoy listening to music, drawing, and exploring the latest in technology.
+During my college days, I worked on AI & ML projects, including a Smart Campus Navigation system using Self-Supervised Learning (SSL).
 
-<!--
-**dharmendhiranvenkat/dharmendhiranvenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about Software Testing, Artificial Intelligence, and improving software quality.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## My Skills
+🛠️ Skills
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Testing Skills
+
+- Manual Testing
+- Automation Testing (Selenium)
+- Test Case Writing
+- Bug Reporting
+- SDLC & STLC Concepts
+
+Programming Languages
+
+- Java
+
+Tools
+
+- Selenium
+- Eclipse
+- Web Browsers & Developer Tools
+
+---
+
+📂 Projects
+
+🔹 Smart Campus Navigation (AI/ML Project)
+
+- Built using Self-Supervised Learning (SSL)
+- Helps users navigate campus efficiently
+- Developed during BCA final year
+
+🔹 E-Commerce Website Testing Project
+
+- Performed Manual Testing
+- Executed Test Cases
+- Identified and reported 12 defects
+- Improved usability and functionality
+
+---
+
+🎯 Career Objective
+
+To start my career as a Software Tester and contribute to delivering high-quality software products.
+
+---
+
+🔎 Currently
+
+- Actively looking for Entry-Level Software Testing Jobs
+- Improving Automation Testing skills
+- Learning industry tools and best practices
+
+---
+
+📫 Contact Me
+
+📧 Email: dharmendhiranvenkat@gmail.com
+📱 Phone: +91 8940127903
+🔗 LinkedIn: https://www.linkedin.com/in/dharmendhiran-v-6rr5rr
+
+---
+
+🎵 Fun Fact
+
+I enjoy listening to music 🎧
